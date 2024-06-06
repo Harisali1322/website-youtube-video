@@ -6,6 +6,7 @@ import { AlignJustify, X } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import DropDownMenu from "./drop-down-menu";
+import logo from "./logo.jpg";
 
 interface NavbarProps {
   scrollToWebsiteDesign: () => void;
@@ -39,7 +40,7 @@ const Navbar = ({
           <Link className="cursor-pointer" href="/">
             <Image
               priority
-              src="/logo/logo.svg"
+              src={logo.src}
               alt="Logo"
               width={100}
               height={100}

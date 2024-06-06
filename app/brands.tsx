@@ -11,19 +11,19 @@ const font = Lora({
 
 const logos = [
   {
+    image: "/logo/ama.png",
+  },
+  {
+    image: "/logo/sho.png",
+  },
+  {
+    image: "/logo/fac.png",
+  },
+  {
     image: "/logo/logoipsum-248.svg",
   },
   {
-    image: "/logo/logoipsum-245.svg",
-  },
-  {
-    image: "/logo/logoipsum-225.svg",
-  },
-  {
-    image: "/logo/logoipsum-248.svg",
-  },
-  {
-    image: "/logo/logoipsum-249.svg",
+    image: "/logo/tik.png",
   },
   {
     image: "/logo/stripelogo.png",
@@ -71,7 +71,7 @@ const Brands = () => {
 
         <div className="items-center flex justify-center flex-col text-white">
           <Image
-            src="/images/logo.svg"
+            src="/images/h.jpeg"
             alt="logo"
             width={1000}
             height={1000}
@@ -79,8 +79,8 @@ const Brands = () => {
           />
 
           <div className=" text-center">
-            <div className="text-sm  font-medium pt-4">Carlos Hernandez</div>
-            <div className="text-sm">Marketing Director, Palium Software</div>
+            <div className="text-sm  font-medium pt-4">Abdullah Farooq and Hamza Saeed</div>
+            <div className="text-sm">Marketing Director & CEO, Hitus Software</div>
           </div>
         </div>
       </div>

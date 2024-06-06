@@ -24,15 +24,15 @@ export async function POST(req: Request) {
         port: 465,
         secure: true,
         auth: {
-          user: "tasicigor123@gmail.com",
-          pass: "bsel kcxt drvb srcx",
+          user: "hamzasaeef95@gmail.com",
+          pass: "sdsa rjoi gnfc uabz",
         },
       });
 
       const mailOptions = {
         from: email,
-        to: "tasicigor123@gmail.com",
-        subject: "Contact Form Submission",
+        to: "hamzasaeef95@gmail.com",
+        subject: " User Contact Form Submission",
         html: `
                     <h1>Contact Form</h1>
                     <p>First Name: ${first_name}</p>

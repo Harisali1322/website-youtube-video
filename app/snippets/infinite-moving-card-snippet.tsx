@@ -18,31 +18,25 @@ export function InfiniteMovingCardsDemo() {
 const testimonials = [
   {
     quote:
-      "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
-    name: "Charles Dickens",
-    title: "A Tale of Two Cities",
+      "Visionary Leadership: Abdullah farooq brings visionary leadership and strategic thinking to Hitus marketing, steering the company towards innovation and growth",
+    name: "ABDULLAH FAROOQ",
+    title: "CEO",
   },
   {
     quote:
-      "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take Arms against a Sea of troubles, And by opposing end them: to die, to sleep.",
-    name: "William Shakespeare",
-    title: "Hamlet",
+      "At Hitus marketing, we are guided by the vision and values of our founder, Hamza saeed, whose expertise and leadership have been the cornerstone of our success.",
+    name: "HAMZA SAEED",
+    title: "AMAZON SELLER & OWNER of the company",
   },
   {
-    quote: "All that we see or seem is but a dream within a dream.",
-    name: "Edgar Allan Poe",
-    title: "A Dream Within a Dream",
-  },
-  {
-    quote:
-      "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-    name: "Jane Austen",
-    title: "Pride and Prejudice",
+    quote: "faizan khan is a passionate and creative TikTok Shop specialist dedicated to bringing you the latest and greatest products. With a keen eye for trends and a knack for discovering unique finds, faizan khan curates a diverse range of items to enhance your shopping experience.",
+    name: "Muhammad Faizan Khan",
+    title: "TIKTOK SHOPPING",
   },
   {
     quote:
-      "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
-    name: "Herman Melville",
-    title: "Moby-Dick",
+      "Experienced Web Developer specializing in creating responsive and user-friendly websites,Offering custom web development solutions tailored to your business needs.",
+    name: "MUHAMMAD HARIS ALI",
+    title: "WEB DESIGNER & DEVELOPER",
   },
 ];

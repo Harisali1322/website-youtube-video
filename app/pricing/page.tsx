@@ -127,7 +127,7 @@ const Pricing = () => {
                 <div className={plan.button}>
                   {index === 0 && (
                     <Link
-                      href="https://buy.stripe.com/6oEg1WdsibFr1EYbIK"
+                      href="https://buy.stripe.com/test_14k8xn8pO4tb49i000"
                       className="rounded-3xl my-4  py-2 text-white w-full mx-auto items-center flex justify-center bg-gradient-to-r from-emerald-500 to-blue-300"
                     >
                       Buy Now
